@@ -1,0 +1,26 @@
+4 de Noviembre:
+
+
+BASE:Demanda BAU: Blending es variable hasta 10p (BAU_Ble_Var_10p)
+
+
+Scenarios Guardados (RS):
+
+ BASE (BAU_Ble_Var_10p) OK
+
+ BAU_Ble_Fix_10p OK
+ BAU_Ble_Var_15p OK
+ BAU_Ble_Fix_15p OK
+
+ INF_Demand (INF_Ble_Var_10p)
+ INF_Ble_Fix_10p
+ INF_Ble_Fix_15p
+ INF_Ble_Var_15p
+
+
+ Base ------------- Prices_R5
+ Prices_R10
+ Prices_HighOil_R5
+ Prices_LowOil_R5
+
+*R indica la relación entre importación y exportación
